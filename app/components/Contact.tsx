@@ -1,16 +1,9 @@
-import { Phone, Clock, MapPin, Calendar } from "lucide-react";
+import { Clock, MapPin, Calendar } from "lucide-react";
 
 const WA_URL =
   "https://wa.me/56933987534?text=Hola%20Dra.%20Solange%2C%20quisiera%20agendar%20una%20consulta";
 
 const info = [
-  {
-    icon: Phone,
-    label: "Celular",
-    value: "+56 9 3398 7534",
-    sub: "Lunes a sábado",
-    color: "bg-sky-100 text-sky-600",
-  },
   {
     icon: Clock,
     label: "Horario",

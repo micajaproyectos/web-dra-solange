@@ -57,16 +57,6 @@ export default function Footer() {
             </h4>
             <ul className="flex flex-col gap-2 text-sm">
               <li>
-                <a
-                  href={WA_URL}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-green-400 transition-colors"
-                >
-                  WhatsApp: +56 9 3398 7534
-                </a>
-              </li>
-              <li>
                 <a href="tel:+56933987534" className="hover:text-sky-400 transition-colors">
                   Teléfono: +56 9 3398 7534
                 </a>
