@@ -43,7 +43,7 @@ const services = [
   {
     icon: FileText,
     title: "Recetas Médicas",
-    subtitle: "Online y en papel",
+    subtitle: "Emisión Online",
     description:
       "Receta médica digital, rápida y válida en todas las farmacias de Chile.",
     features: [
@@ -62,7 +62,7 @@ const services = [
     title: "Licencia Médica",
     subtitle: "Emisión online",
     description:
-      "Evaluación y emisión de licencia médica online, válida en Isapre y Fonasa.",
+      "Evaluación y emisión de licencia médica online previo diagnóstico.",
     features: [
       "Evaluación previa por videollamada",
       "Licencia digital o en papel",
