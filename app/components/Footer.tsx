@@ -72,6 +72,23 @@ export default function Footer() {
           <p>
             &copy; {new Date().getFullYear()} Dra. Solange · Todos los derechos reservados
           </p>
+          <p className="flex items-center gap-1 text-slate-400">
+            Creado por{" "}
+            <span>
+              <span
+                style={{
+                  background: "linear-gradient(135deg, #6366f1, #22d3ee)",
+                  WebkitBackgroundClip: "text",
+                  WebkitTextFillColor: "transparent",
+                  backgroundClip: "text",
+                  fontWeight: 700,
+                }}
+              >
+                AM
+              </span>
+              <span style={{ color: "#e2e8f0", fontWeight: 500 }}> Tecnología</span>
+            </span>
+          </p>
         </div>
       </div>
     </footer>
