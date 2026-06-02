@@ -8,6 +8,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  verification: {
+    google: "YnpAh1qZljA8gvXmIXiyqk14epfgymePQFSzrmDdSj4",
+  },
   title: "Dra. Solange | Médico Online · Telemedicina Chile",
   description:
     "Consulta médica online, domiciliaria y recetas con la Dra. Solange. Atención personalizada, profesional y cálida desde la comodidad de tu hogar. Agenda por WhatsApp.",
