@@ -74,7 +74,7 @@ export default function Footer() {
           </p>
           <p className="flex items-center gap-1 text-slate-400">
             Creado por{" "}
-            <span>
+            <a href="https://www.amtecnologia.cl" target="_blank" rel="noopener noreferrer">
               <span
                 style={{
                   background: "linear-gradient(135deg, #6366f1, #22d3ee)",
@@ -87,7 +87,7 @@ export default function Footer() {
                 AM
               </span>
               <span style={{ color: "#e2e8f0", fontWeight: 500 }}> Tecnología</span>
-            </span>
+            </a>
           </p>
         </div>
       </div>
